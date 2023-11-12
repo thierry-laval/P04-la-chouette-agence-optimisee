@@ -86,7 +86,7 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 :white_check_mark: [10 recommandations pour améliorer le SEO](https://drive.google.com/file/d/19twBG5KC01nIfDIYf5PyODybkY2axvVA/view?usp=sharing)\
 :white_check_mark: [Rapport d'optimisation du SEO](https://drive.google.com/file/d/1fcW0o8AmSgP_2yU7wyxUH2kUh9XSSJnZ/view?usp=sharing)\
 :white_check_mark: [Code source optimisé](https://github.com/thierry-laval/la-chouette-agence/find/master)\
-:white_check_mark: [Lien du projet GitHub](https://github.com/thierry-laval/la-chouette-agence)\
+:white_check_mark: [Lien du projet GitHub](https://github.com/thierry-laval/P04-la-chouette-agence-optimisee)\
 :white_check_mark: [Lien de la Chouette Agence Optimisé](https://thierry-laval.github.io/P04-la-chouette-agence-optimisee/)\
 :white_check_mark: [Les rapports de test SEO](https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing)
 
