@@ -16,7 +16,7 @@ _`Début de formation le 20/04/2020`_
 ***
 ### Optimiser le SEO d'un site
 
-Le site optimisé hébergé sur GitHub: [La Chouette agence](https://thierry-laval.github.io/la-chouette-agence/)
+Le site optimisé hébergé sur GitHub: [La Chouette agence](https://thierry-laval.github.io/P04-la-chouette-agence-optimisee/)
 
 #### 🔨 Optimisez un site web existant
 
@@ -42,7 +42,7 @@ Le site optimisé hébergé sur GitHub: [La Chouette agence](https://thierry-lav
 
 ##### Travail réalisé
 
-Le sujet porte sur l'optimisation du site [La Chouette agence](https://github.com/thierry-laval/la-chouette-agence), (hébergé sur GitHub) via la mise en œuvre de 10 recommandations SEO.
+Le sujet porte sur l'optimisation du site [La Chouette agence](https://thierry-laval.github.io/P04-la-chouette-agence-optimisee/), (hébergé sur GitHub) via la mise en œuvre de 10 recommandations SEO.
 Il faut également garantir l'accessibilité mobile du site en respectant les critères d'accessibilité sur [WCAG v2.0](https://www.w3.org/Translations/WCAG20-fr/).
 
 Mes 10 recommandations se repartissent en 5 parties (voir détail dans les Livrables):
@@ -53,8 +53,8 @@ Mes 10 recommandations se repartissent en 5 parties (voir détail dans les Livra
 4. SEO ON-PAGE - Mise en place d'une structure technique optimisée.
 5. SEO ON-PAGE - Contenu reprenant les mots clés.
 
-Les liens partenaires du footer ont été déplacés vers la nouvelle page [Partenaires](partenaires.html).<br>
-Les liens partenaires ne pointent nulle part => [Redirection 404](https://thierry-laval.github.io/la-chouette-agence/page-404.html).<br>
+Les liens partenaires du footer ont été déplacés vers la nouvelle page [Partenaires](https://thierry-laval.github.io/P04-la-chouette-agence-optimisee/partenaires.html).<br>
+Les liens partenaires ne pointent nulle part => [Redirection 404](https://thierry-laval.github.io/P04-la-chouette-agence-optimisee/page-404.html).<br>
 Une nouvelle page de redirection a été crée en attendant de mettre les liens définitifs.<br>
 Cette redirection fonctionne grâce au fichier `.htaccess` placé à la racine du site.<br>
 Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
@@ -65,7 +65,7 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 
 * Voir : [Le projet sur OpenClassrooms](https://openclassrooms.com/fr/paths/185/projects/638/assignment "Cliquez pour voir le projet")
 
-* Le site avant optimisation : [La Chouette agence](https://thierry-laval.github.io/La-chouette-agence-non-optimisee/)
+* Le site avant optimisation se trouve dans le fichier .zip
 
 * Liste à implémenter : [Check-list pour l'accessibilité mobile
 ](https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist_accessibilite_mobile)
@@ -87,7 +87,7 @@ Sur GitHub les fichiers `.htaccess` ne sont pas pris en charge.
 :white_check_mark: [Rapport d'optimisation du SEO](https://drive.google.com/file/d/1fcW0o8AmSgP_2yU7wyxUH2kUh9XSSJnZ/view?usp=sharing)\
 :white_check_mark: [Code source optimisé](https://github.com/thierry-laval/la-chouette-agence/find/master)\
 :white_check_mark: [Lien du projet GitHub](https://github.com/thierry-laval/la-chouette-agence)\
-:white_check_mark: [Lien de la Chouette Agence Optimisé](https://thierry-laval.github.io/la-chouette-agence)\
+:white_check_mark: [Lien de la Chouette Agence Optimisé](https://thierry-laval.github.io/P04-la-chouette-agence-optimisee/)\
 :white_check_mark: [Les rapports de test SEO](https://drive.google.com/drive/folders/1tgPtZZVKhZpWf7vMzUSkv6xQp76qzp25?usp=sharing)
 
 ***
